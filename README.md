@@ -13,4 +13,4 @@ Accelerate. Rank up. Convert.
 
 # Hey! <img src="https://raw.githubusercontent.com/GaelLanez/GaelLanez/main/wave.gif" width="30px">
 My name is Gaël Lanez and I am the founder of Lightify.io<br/>
-Appart from this project, I also like to experiment with new technologies and to play with artificial intelligence. I think AI will have a great impact on our lives in the next few decades, although we are still far from [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). [This sentence was written by [GPT-J](https://www.eleuther.ai/)]  
+Appart from this project, I also like to experiment with new technologies and to play with artificial intelligence. I think AI will have a great impact on our lives in the next few decades !
